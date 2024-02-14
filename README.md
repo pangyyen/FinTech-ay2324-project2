@@ -31,4 +31,3 @@
 
 - Repository Link: [GitHub Repository](https://github.com/yourusername/your-repo)
 
-b`, `yourusername`, and `your-repo` with actual information. Create appropriate directories within your GitHub repository to organize your code, data, and any additional resources.
